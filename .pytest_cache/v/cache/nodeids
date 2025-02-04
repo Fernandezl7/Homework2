@@ -1,0 +1,6 @@
+[
+  "tests/__init__.py::PYLINT",
+  "tests/test_calculator.py::PYLINT",
+  "tests/test_calculator.py::test_addition",
+  "tests/test_calculator.py::test_subtraction"
+]
